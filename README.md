@@ -1,2 +1,2 @@
 # special-effects
-Custom React Effect Hooks
+Special React Effect Hooks
