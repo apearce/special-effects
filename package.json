@@ -37,5 +37,8 @@
   },
   "peerDependencies": {
     "react": "^16.9.0"
+  },
+  "dependencies": {
+    "use-immediate-effect": "^1.1.2"
   }
 }

@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import useImmediateEffect from './useImmediateEffect';
+import useImmediateEffect from 'use-immediate-effect';
 
 export default function useImmediateAfterEffect(effect, deps) {
     const deferredRef = useRef(false);
